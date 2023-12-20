@@ -6,6 +6,8 @@ public class A {
 		System.out.println("My name is A");
 		B b = new B();
 		b.Bclass("B");
+		C c = new C();
+		c.Cclass("C");
 	}
 
 }
